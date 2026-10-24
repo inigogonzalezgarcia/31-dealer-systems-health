@@ -1,0 +1,87 @@
+{
+  "brand": "VanArsdel Motors Iberia",
+  "as_of": "2026-10-25 08:00",
+  "currency": "€",
+  "interfaces": {
+    "repair_orders": {
+      "stale_hours": 26,
+      "critical": true
+    },
+    "warranty_claims": {
+      "stale_hours": 26,
+      "critical": true
+    },
+    "parts_orders": {
+      "stale_hours": 26,
+      "critical": false
+    },
+    "vehicle_sales": {
+      "stale_hours": 74,
+      "critical": false
+    },
+    "stock": {
+      "stale_hours": 50,
+      "critical": false
+    }
+  },
+  "window_days": 14,
+  "error_rate_max_pct": 5,
+  "silent_days": 3,
+  "supported_dms": {
+    "DriveLedger": [
+      "7.2",
+      "7.3"
+    ],
+    "GarageOne": [
+      "2025.2",
+      "2026.1"
+    ],
+    "MotorDesk": [
+      "5"
+    ]
+  },
+  "dms_end_of_support": {
+    "MotorDesk 5": "2026-12-31",
+    "DriveLedger 7.2": "2027-06-30"
+  },
+  "eos_warn_days": 90,
+  "claim_submit_days": 30,
+  "claim_warn_days": 7,
+  "claim_pending_days": 15,
+  "info_request_days": 10,
+  "rejection_rate_max_pct": 12,
+  "min_claims_for_rate": 10,
+  "unpaid_days": 30,
+  "duplicate_window_days": 30,
+  "claims_window_days": 90,
+  "catalogue_version": "2026.10",
+  "catalogue_released": "2026-10-01",
+  "catalogue_grace_days": 10,
+  "catalogue_versions": [
+    "2026.10",
+    "2026.09",
+    "2026.08",
+    "2026.07"
+  ],
+  "price_version": "P2026-10",
+  "price_released": "2026-10-15",
+  "price_grace_days": 5,
+  "onboarding_items": [
+    "DMS certified",
+    "Interfaces tested",
+    "User accounts",
+    "Catalogue installed",
+    "Warranty training",
+    "Network and VPN"
+  ],
+  "onboarding_warn_days": 21,
+  "onboarding_critical_days": 7,
+  "owners": {
+    "interfaces": "Integration team",
+    "warranty": "Warranty team",
+    "payments": "Finance",
+    "parts": "Parts team",
+    "dms": "Dealer IT",
+    "onboarding": "Network development"
+  }
+}

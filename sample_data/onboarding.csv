@@ -1,0 +1,19 @@
+Dealer code,Item,Done
+D049,DMS certified,yes
+D049,Interfaces tested,no
+D049,User accounts,yes
+D049,Catalogue installed,yes
+D049,Warranty training,no
+D049,Network and VPN,yes
+D050,DMS certified,yes
+D050,Interfaces tested,no
+D050,User accounts,yes
+D050,Catalogue installed,no
+D050,Warranty training,no
+D050,Network and VPN,yes
+D051,DMS certified,no
+D051,Interfaces tested,no
+D051,User accounts,yes
+D051,Catalogue installed,no
+D051,Warranty training,no
+D051,Network and VPN,yes

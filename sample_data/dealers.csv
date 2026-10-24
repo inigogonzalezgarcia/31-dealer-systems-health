@@ -1,0 +1,54 @@
+Dealer code,Name,Country,City,Type,DMS,DMS version,Status,Go live,End date,Area manager
+D001,Madrid Automoción,ES,Madrid,sales and service,GarageOne,2026.1,active,2015-02-01,,Area manager Centre
+D002,Madrid Norte Cars,ES,Madrid Norte,sales and service,DriveLedger,7.3,active,2016-03-01,,Area manager Centre
+D003,Alcalá de Henares Auto Center,ES,Alcalá de Henares,sales and service,GarageOne,2025.2,active,2017-04-01,,Area manager Centre
+D004,Toledo Motor Group,ES,Toledo,sales and service,DriveLedger,7.3,active,2018-05-01,,Area manager Centre
+D005,Guadalajara Motor,ES,Guadalajara,sales and service,DriveLedger,7.3,active,2019-06-01,,Area manager Centre
+D006,Valladolid Automoción,ES,Valladolid,service only,DriveLedger,7.2,active,2020-07-01,,Area manager Centre
+D007,Salamanca Cars,ES,Salamanca,sales and service,GarageOne,2026.1,active,2021-08-01,,Area manager Centre
+D008,Burgos Auto Center,ES,Burgos,sales and service,GarageOne,2026.1,active,2022-09-01,,Area manager North
+D009,Bilbao Motor Group,ES,Bilbao,sales and service,MotorDesk,5,active,2023-10-01,,Area manager North
+D010,Vitoria Motor,ES,Vitoria,sales and service,GarageOne,2026.1,active,2024-11-01,,Area manager North
+D011,San Sebastián Automoción,ES,San Sebastián,sales and service,DriveLedger,7.3,active,2014-12-01,,Area manager North
+D012,Santander Cars,ES,Santander,sales and service,DriveLedger,7.3,active,2015-01-01,,Area manager North
+D013,Oviedo Auto Center,ES,Oviedo,service only,DriveLedger,7.1,active,2016-02-01,,Area manager North
+D014,Gijón Motor Group,ES,Gijón,sales and service,DriveLedger,7.2,active,2017-03-01,,Area manager North
+D015,A Coruña Motor,ES,A Coruña,sales and service,DriveLedger,7.3,active,2018-04-01,,Area manager North
+D016,Vigo Automoción,ES,Vigo,sales and service,DriveLedger,7.2,active,2019-05-01,,Area manager North
+D017,Pamplona Cars,ES,Pamplona,sales and service,DriveLedger,7.2,active,2020-06-01,,Area manager North
+D018,Logroño Auto Center,ES,Logroño,sales and service,GarageOne,2026.1,active,2021-07-01,,Area manager North
+D019,Zaragoza Motor Group,ES,Zaragoza,sales and service,GarageOne,2026.1,active,2022-08-01,,Area manager East
+D020,Barcelona Motor,ES,Barcelona,sales and service,MotorDesk,5,active,2023-09-01,,Area manager East
+D021,Barcelona Sud Automoción,ES,Barcelona Sud,sales and service,DriveLedger,7.3,active,2024-10-01,,Area manager East
+D022,Girona Cars,ES,Girona,sales and service,GarageOne,2025.2,active,2014-11-01,,Area manager East
+D023,Tarragona Auto Center,ES,Tarragona,sales and service,DriveLedger,7.2,active,2015-12-01,,Area manager East
+D024,Lleida Motor Group,ES,Lleida,sales and service,MotorDesk,5,active,2016-01-01,,Area manager East
+D025,Valencia Motor,ES,Valencia,service only,DriveLedger,7.3,active,2017-02-01,,Area manager East
+D026,Castellón Automoción,ES,Castellón,sales and service,GarageOne,2025.2,active,2018-03-01,,Area manager East
+D027,Alicante Cars,ES,Alicante,sales and service,DriveLedger,7.2,active,2019-04-01,,Area manager East
+D028,Murcia Auto Center,ES,Murcia,sales and service,DriveLedger,7.2,active,2020-05-01,,Area manager East
+D029,Palma Motor Group,ES,Palma,sales and service,GarageOne,2025.2,active,2021-06-01,,Area manager East
+D030,Sevilla Motor,ES,Sevilla,sales and service,DriveLedger,7.3,active,2022-07-01,,Area manager South
+D031,Málaga Automoción,ES,Málaga,sales and service,MotorDesk,5,active,2023-08-01,,Area manager South
+D032,Granada Cars,ES,Granada,sales and service,DriveLedger,7.1,active,2024-09-01,,Area manager South
+D033,Córdoba Auto Center,ES,Córdoba,sales and service,GarageOne,2026.1,active,2014-10-01,,Area manager South
+D034,Cádiz Motor Group,ES,Cádiz,service only,DriveLedger,7.3,active,2015-11-01,,Area manager South
+D035,Almería Motor,ES,Almería,sales and service,DriveLedger,7.3,active,2016-12-01,,Area manager South
+D036,Badajoz Automoción,ES,Badajoz,sales and service,DriveLedger,7.3,active,2017-01-01,,Area manager South
+D037,Lisboa Cars,PT,Lisboa,sales and service,GarageOne,2026.1,active,2018-02-01,,Area manager Portugal
+D038,Lisboa Oeste Auto Center,PT,Lisboa Oeste,sales and service,MotorDesk,5,active,2019-03-01,,Area manager Portugal
+D039,Porto Motor Group,PT,Porto,sales and service,GarageOne,2025.2,active,2020-04-01,,Area manager Portugal
+D040,Braga Motor,PT,Braga,sales and service,DriveLedger,7.1,active,2021-05-01,,Area manager Portugal
+D041,Coimbra Automoción,PT,Coimbra,sales and service,GarageOne,2024.4,active,2022-06-01,,Area manager Portugal
+D042,Aveiro Cars,PT,Aveiro,sales and service,GarageOne,2024.4,active,2023-07-01,,Area manager Portugal
+D043,Faro Auto Center,PT,Faro,sales and service,GarageOne,2024.4,active,2024-08-01,,Area manager Portugal
+D044,Setúbal Motor Group,PT,Setúbal,service only,DriveLedger,7.3,active,2014-09-01,,Area manager Portugal
+D045,Leiria Motor,PT,Leiria,sales and service,GarageOne,2026.1,active,2015-10-01,,Area manager Portugal
+D046,Viseu Automoción,PT,Viseu,sales and service,DriveLedger,7.3,active,2016-11-01,,Area manager Portugal
+D047,Évora Cars,PT,Évora,sales and service,DriveLedger,7.3,active,2017-12-01,,Area manager Portugal
+D048,Funchal Auto Center,PT,Funchal,service only,MotorDesk,5,active,2018-01-01,,Area manager Portugal
+D049,Las Palmas Motor Group,ES,Las Palmas,sales and service,DriveLedger,7.1,onboarding,2026-10-30,,Area manager South
+D050,Huelva Motor,ES,Huelva,sales and service,DriveLedger,7.3,onboarding,2026-11-09,,Area manager South
+D051,Guimarães Automoción,PT,Guimarães,sales and service,DriveLedger,7.2,onboarding,2026-12-01,,Area manager Portugal
+D052,Cáceres Cars,ES,Cáceres,sales and service,DriveLedger,7.2,terminated,2022-05-01,2026-09-30,Area manager South
+D053,Viana do Castelo Auto Center,PT,Viana do Castelo,sales and service,DriveLedger,7.2,terminated,2023-06-01,2026-08-31,Area manager Portugal
